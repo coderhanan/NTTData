@@ -3,9 +3,12 @@ Line 2
 Line 3
 Line 4
 Line 5
+<<<<<<< HEAD:file1.txt
 Line 6
 <<<<<<< HEAD
 Line 7
 Line 8 - this a revert command
 =======
 >>>>>>> parent of b293c27... New Line Added
+=======
+>>>>>>> parent of d5cfc11... Changes to main text file:file.txt
